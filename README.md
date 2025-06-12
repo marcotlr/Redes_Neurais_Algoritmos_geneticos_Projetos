@@ -1,4 +1,4 @@
-# Memorial de Atividades  
+# Memorial de Atividades  #
 **Disciplina:** Redes Neurais e Algoritmos Genéticos  
 **Instituição:** Ilum Escola de Ciência  
 **Semestre:** 3º semestre – 2025  
@@ -6,6 +6,10 @@
 Este repositório reúne as atividades práticas realizadas ao longo da disciplina “Redes Neurais e Algoritmos Genéticos”. Cada pasta contém notebooks, códigos e materiais de apoio organizados por “Monstrinhos” e “Feras formidáveis”.
 
 ---
+## Autores
+
+**Autor principal:
+
 
 ## Estrutura do Repositório
 
