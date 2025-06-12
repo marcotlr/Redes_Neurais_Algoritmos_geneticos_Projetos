@@ -46,7 +46,7 @@ Este repositório reúne as atividades práticas realizadas ao longo da discipli
 
 ## Dependências
 
-- Python 3.8+  
+- Python 
 - Jupyter Notebook  
 - Bibliotecas (p. ex.): `numpy`, `pandas`, `torch`, `matplotlib`  
 
