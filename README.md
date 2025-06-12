@@ -8,9 +8,17 @@ Este repositório reúne as atividades práticas realizadas ao longo da discipli
 ---
 ## Autores
 
-**Autor principal:
+**Autor principal**: 
+- Marco Túlio Lima Rodrigues
 
+**Colaboradores**: 
+- José Victor da Silva Izidorio (Fera 4.13)
+- Andriel Vinícius Martins da Silva (Fera 4.15)
 
+**Professor responsável**: 
+- Dr. Daniel Roberto Cassar
+
+---
 ## Estrutura do Repositório
 
 - **Monstrinhos**  
