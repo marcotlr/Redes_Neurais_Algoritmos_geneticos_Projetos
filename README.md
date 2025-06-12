@@ -9,16 +9,16 @@ Este repositório reúne as atividades práticas realizadas ao longo da discipli
 
 ## Estrutura do Repositório
 
-- **Monstrinhos/**  
-  Contém as atividades **Monstrinho 1** a **Monstrinho 4**.  
-  - `Monstrinho 1/`  
-  - `Monstrinho 2/`  
-  - `Monstrinho 3/`  
-  - `Monstrinho 4/`  
+- **Monstrinhos**  
+  Contém as atividades mais simples da disciplina sendo **Monstrinho 1** a **Monstrinho 4**.  
+  - `Monstrinho 1`  
+  - `Monstrinho 2`  
+  - `Monstrinho 3`  
+  - `Monstrinho 4`  
 
-- **Feras formidáveis/**  
-  Agrupa as atividades avançadas numeradas como **Fera 4.2**, **Fera 4.3**, **Fera 4.10**, **Fera 4.12**, **Fera 4.13**, **Fera 4.14** e **Fera 4.15**.  
-  Cada uma dessas subpastas contém:
+- **Feras formidáveis**  
+  Agrupa as atividades moderadamente mais avançadas numeradas como **Fera 4.2**, **Fera 4.3**, **Fera 4.10**, **Fera 4.12**, **Fera 4.13**, **Fera 4.14** e **Fera 4.15**.  
+  Cada uma dessas atividades são uma subpasta que contém:
   - Um notebook Jupyter (`.ipynb`) com a resolução e comentários.
   - Quando necessário, scripts em Python (`.py`) que suportam ou ilustram partes do notebook.
 
@@ -26,7 +26,7 @@ Este repositório reúne as atividades práticas realizadas ao longo da discipli
 
 ## Como navegar nos conteúdos
 
-1. Abra a pasta **Monstrinhos** para ver as primeiras quatro atividades de introdução a grafos e backpropagation.  
+1. Abra a pasta **Monstrinhos** para ver as primeiras quatro atividades de introdução a classes e redes neurais.  
 2. Em **Feras formidáveis**, explore exercícios mais avançados sobre redes neurais e algoritmos genéticos, cada “Fera” numerada conforme o enunciado da disciplina.  
 3. Para cada atividade, execute primeiro o notebook. Caso haja dependências externas, verifique os arquivos `.py` da mesma pasta.
 
@@ -37,6 +37,4 @@ Este repositório reúne as atividades práticas realizadas ao longo da discipli
 - Python 3.8+  
 - Jupyter Notebook  
 - Bibliotecas (p. ex.): `numpy`, `pandas`, `torch`, `matplotlib`  
-- Instale via:
-  ```bash
-  pip install -r requirements.txt
+
